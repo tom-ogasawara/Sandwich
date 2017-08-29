@@ -1,0 +1,15 @@
+.container { 
+  display: flex;
+  flex-direction: column;
+}
+
+.header { 
+  padding: 20px;
+  height: 100px;
+  background: #333;
+  color: #eee;
+}
+
+.body {
+  text-align: center;
+}
